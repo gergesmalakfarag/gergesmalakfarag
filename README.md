@@ -7,7 +7,7 @@
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=[اليوزر_نيم_بتاعك]&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gergesmalakfarag&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@ I don't just write code; I construct digital monuments. By blending the architec
 
 * 🔭 **Vision:** Transforming history into interactive digital reality.
 * ⚡ **Approach:** Clean architecture, pixel-perfect UI, and optimized database queries.
-* 📫 **Connect:** <a href="mailto:[ايميلك]">Initiate Transmission</a>
+* 📫 **Connect:** <a href="mailto:gmf20003@gmail.com">Initiate Transmission</a>
 
 ---
 
@@ -50,7 +50,7 @@ I don't just write code; I construct digital monuments. By blending the architec
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[اليوزر_نيم_بتاعك]&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&text-color=D4AF37" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gergesmalakfarag&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&text-color=D4AF37" alt="Trophies" />
   </a>
 </div>
 
@@ -88,15 +88,15 @@ I don't just write code; I construct digital monuments. By blending the architec
 ### 📊 Tactical Metrics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[اليوزر_نيم_بتاعك]&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true" height="190em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[اليوزر_نيم_بتاعك]&layout=compact&title_color=D4AF37&text_color=ffffff&bg_color=00000000&hide_border=true" height="190em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gergesmalakfarag&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true" height="190em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergesmalakfarag&layout=compact&title_color=D4AF37&text_color=ffffff&bg_color=00000000&hide_border=true" height="190em" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[اليوزر_نيم_بتاعك]/[اليوزر_نيم_بتاعك]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[اليوزر_نيم_بتاعك]/[اليوزر_نيم_بتاعك]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[اليوزر_نيم_بتاعك]/[اليوزر_نيم_بتاعك]/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gergesmalakfarag/gergesmalakfarag/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gergesmalakfarag/gergesmalakfarag/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gergesmalakfarag/gergesmalakfarag/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
