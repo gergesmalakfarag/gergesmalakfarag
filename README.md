@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=250&section=header&text=Architect%20of%20Digital%20Eternity&fontSize=40&fontColor=111111&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%7C%20Mobile%20%7C%203D%20Web&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=250&section=header&text=Architect%20of%20Digital%20Eternity&fontSize=40&fontColor=111111&animation=twinkling&fontAlignY=35&desc=Lead%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -14,11 +14,48 @@
 
 ### 𓂀 The Digital Manifesto
 
-I don't just write code; I construct digital monuments. By blending the architectural precision of the ancients with cutting-edge software engineering, I create robust platforms, seamless mobile applications, and immersive experiences that transcend traditional web boundaries.
+*"Mastery is the secret of immortality."* I don't just write code; I construct digital monuments. By blending the architectural precision of the ancients with cutting-edge software engineering, I create robust platforms, seamless mobile applications, and immersive experiences that transcend traditional web boundaries.
 
 * 🔭 **Vision:** Transforming history into interactive digital reality.
 * ⚡ **Approach:** Clean architecture, pixel-perfect UI, and optimized database queries.
 * 📫 **Connect:** <a href="mailto:gmf20003@gmail.com">Initiate Transmission</a>
+
+---
+
+### 📜 The Chronicles & Milestones
+
+A brief look into my journey of building robust software and pushing the limits of digital experiences:
+
+- 👑 **Present:** Architecting the **GEM 3D Virtual Experience** (Graduation Project) - Merging 7,000 years of history with modern WebGL, Next.js, and a scalable backend architecture.
+- 🎓 **Certified Developer:** Successfully completed intensive **Front-End Development** training, which laid the unbreakable foundation for my full-stack and mobile expertise.
+- 🚀 **Continuous Evolution:** Constantly expanding my arsenal with advanced Data Structures, C# backend logic, and complex SQL database management.
+
+---
+
+### 💎 Core Competencies
+
+<table bordercolor="#D4AF37">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Web Development</h4>
+      Building highly responsive and interactive web applications using <b>Next.js</b> and the <b>MERN stack</b>. Ensuring smooth data flow from robust backend APIs to pixel-perfect front-end designs.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Cross-Platform Mobile Apps</h4>
+      Crafting seamless and performant mobile experiences using <b>Flutter</b> and <b>Dart</b>, ensuring users get a native-like feel across both iOS and Android platforms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏛️ 3D & Immersive Tech</h4>
+      Integrating 3D models and interactive experiences directly into the browser, bringing artifacts and environments to life.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Database & System Architecture</h4>
+      Designing secure and scalable database structures using <b>SQL Server</b> and <b>MongoDB</b>, with a strong focus on backend logic using <b>C#</b> and <b>Node.js</b>.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,7 +114,7 @@ I don't just write code; I construct digital monuments. By blending the architec
         <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&perline=4" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&perline=4" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker,sqlite&perline=5" />
       </td>
     </tr>
   </table>
